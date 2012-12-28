@@ -1,0 +1,15 @@
+In mathematics, matrix multiplication is a binary operation that takes a pair of matrices, and produces another matrix. This term may refer to a number of different ways to multiply matrices, but most commonly refers to the matrix product.
+In mathematics, a matrix (plural matrices) is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. The individual items in a matrix are called its elements or entries. 
+In linear algebra, a rotation matrix is a matrix that is used to perform a rotation in Euclidean space
+In mathematics, a system of linear equations (or linear system) is a collection of linear equations involving the same set of variables.
+An eigenvector of a square matrix is a non-zero vector that, when multiplied by the matrix, yields a vector that differs from the original at most by a multiplicative scalar.
+For example, if three-element vectors are seen as arrows in three-dimensional space, an eigenvector of a 3×3 matrix A is an arrow whose direction is either preserved or exactly reversed after multiplication by A
+In mathematics, shear mapping or transvection is a particular kind of linear mapping
+A vector space is a mathematical structure formed by a collection of elements called vectors, which may be added together and multiplied ("scaled") by numbers, called scalars in this context.
+Matrix chain multiplication is an optimization problem that can be solved using dynamic programming. 
+In linear algebra, a column vector or column matrix is an m × 1 matrix, i.e. a matrix consisting of a single column of m elements.
+In mathematics, the dot product, or scalar product (or sometimes inner product in the context of Euclidean space), is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number.
+In linear algebra, the outer product typically refers to the tensor product of two vectors. The result of applying the outer product to a pair of vectors is a matrix. The name contrasts with the inner product, which takes as input a pair of vectors and produces a scalar.
+In mathematics, the Kronecker product, denoted by ⊗, is an operation on two matrices of arbitrary size resulting in a block matrix
+In mathematics and computer science, a higher-order function (also functional form, functional or functor) is a function that does at least one of the following
+In mathematics, the tensor product, denoted by ⊗, may be applied in different contexts to vectors, matrices, tensors, vector spaces, algebras, topological vector spaces, and modules, among many other structures or objects.
